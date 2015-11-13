@@ -51,6 +51,7 @@ install.packages("sendmailR")
 install.packages("stargazer")
 install.packages("stringr")
 install.packages("timeDate")
+install.packages("XLConnect")
 install.packages("xtable")
 install.packages("zoo")
 
